@@ -9,7 +9,7 @@ on:
     types: [created, edited]
     
 jobs:
-  giphy_generator:
+  giphy-generator:
     runs-on: ubuntu-latest
     
     steps:
